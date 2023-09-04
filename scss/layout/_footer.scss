@@ -1,0 +1,36 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: $color-navfoot;
+    box-sizing: border-box;
+    align-items: center;
+    align-content: center;
+
+    .img-de-footer {
+        margin-left: 20px;
+        margin-top: 15px;
+
+        img {
+
+            width: 5%;
+            height: 15px;
+        }
+
+
+
+    }
+}
+
+.footer {
+    .derechos {
+
+        margin-right: 40px;
+        justify-items: center;
+        margin-top: 15px;
+        flex-direction: column;
+    }
+
+}
+
+/* hasta aca */
+
